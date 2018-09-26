@@ -1,0 +1,32 @@
+To any Plethora reader:
+    I generally keep a set of working notes like this.
+    It's not secret, but it's also not written for anyone but me.
+    
+    
+
+cleanup includes
+
+Downloaded libraries
+    JsonCpp - just used the 3 source files
+
+Git issues
+    Lost change traking for json files
+    How to go back and assure checkins are properly commented
+    How to filter out the files that don't need to be managed
+    Get rid of bogus files
+
+
+    Error:
+        error writing "file519b760": broken pipe
+        error writing "file519b760": broken pipe
+            while executing
+        "puts -nonewline $fd "[encoding convertto utf-8 $path]\0""
+            (procedure "write_update_index" line 34)
+            invoked from within
+        "write_update_index file519b760 {CutCircularArc.json ExtrudeCircularArc.json LaserEstimating/.vs/LaserEstimating/v15/.suo LaserEstimating/.vs/LaserEsti..."
+        float
+
+Notes for Plethora
+    - I tried to comment the style points you might consider quirks.  I'm not committed to any of them.
+    - Linton convention
+    - huh_ and wut__
